@@ -1,0 +1,17 @@
+{
+  "name": "request-logging-http-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Adrian Todt <adriantodt@adriantodt.net>",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fs-extra": "^10.1.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^9.0.13"
+  }
+}
